@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 # NESTED LOOPS
 # https://www.youtube.com/watch?v=oQfNYqz8pLs
-
+# https://rapidapi.com/community/api/urban-dictionary
 apikey = os.environ.get('XRapidAPIKey')
 apihost = os.environ.get('XRapidAPIHost')
 
